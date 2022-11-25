@@ -8,6 +8,4 @@ WORKDIR /app
 
 COPY * ./
 
-VOLUME been_bot_db
-
 CMD [ "python", "main.py" ]
