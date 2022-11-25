@@ -2,7 +2,7 @@ import pandas as pd
 import sqlite3
 import datetime as dt
 
-con = sqlite3.connect('/db/been_bot_db')
+con = sqlite3.connect('db/been_bot_db')
 cursor = con.cursor()
 
 
