@@ -1,5 +1,5 @@
 # [been_russia_bot](https://t.me/been_regions_russia_bot)
-Telegram bot that allows the user to see the map with the regions in Russia he/she has been to and some stats.
+Telegram bot that allows user to see the map with the regions in Russia he/she has been to and some stats.
 
 * The user gets a series of polls with regions to select for each federal district. Multiple answers are possible.  
 * When done with the selection, the user gets the stats and the map with the regions he/she has been to.
