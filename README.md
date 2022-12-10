@@ -11,7 +11,9 @@ Telegram bot that allows user to see the map with the regions in Russia he/she h
 In order to deploy with Docker, input your telegram token and telegram id into envs below:
 ```
 docker build -t been_russia_bot .
+
 docker run -d --name been_bot \ 
            -e token='your_token' -e owner_id=your_tg_id \
-           -v been_bot:/app/db been_russia_bot
+           -v been_bot:/app/db \
+           been_russia_bot
 ```
