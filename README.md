@@ -1,5 +1,5 @@
 # [been_russia_bot](https://t.me/been_regions_russia_bot)
-allows users to select regions in Russia they have visited and get a coloured map with statistics, including the percentage of total territory covered and the number of regions visited.
+This Telegram bot allows users to select regions in Russia they have visited and get a coloured map with statistics, including the percentage of total territory covered and the number of regions visited.
 
 * The user gets a series of polls with regions to select for each federal district. Multiple answers are possible.  
 * When done with the selection, the user gets the stats and the map with the regions he/she has been to.
